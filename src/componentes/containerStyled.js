@@ -8,4 +8,5 @@ display:flex;
 justify-content:center;
 padding:1rem;
 font-weight: 700;
+border-radius:.5rem;
 `
