@@ -3,9 +3,9 @@ import { Container } from '../containerStyled'
 
 const ItemContainer = () => {
   return (
-    <Container className="">
-      Bienvenido - PETSHOP
-      
+    //CONTAINER STYLED
+    <Container>
+      Selecciona la marca de tu producto
     </Container>
   )
 }

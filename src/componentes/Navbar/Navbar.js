@@ -6,9 +6,9 @@ const Navbar = () => {
     <nav>
         <span>PETSHOP MI MASCOTA</span>
         <ul>
-            <li>Perros</li>
-            <li>Gatos</li>
-            <li>Accesorios</li>
+            <li><a href="#">Perros</a></li>
+            <li><a href="#">Gatos</a></li>
+            <li><a href="#">Accesorios</a></li>
         </ul>
         <Cart />
     </nav>
