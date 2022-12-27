@@ -1,7 +1,7 @@
 import React from 'react'
-import { Container } from '../containerStyled'
+import { Container } from '../styledComponents/containerStyled'
 
-const ItemContainer = () => {
+const ItemListContainer = () => {
   return (
     //CONTAINER STYLED
     <Container>
@@ -10,4 +10,4 @@ const ItemContainer = () => {
   )
 }
 
-export default ItemContainer
+export default ItemListContainer
