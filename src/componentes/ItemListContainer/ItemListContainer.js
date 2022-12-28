@@ -1,11 +1,11 @@
 import React from 'react'
 import { Container } from '../styledComponents/containerStyled'
 
-const ItemListContainer = () => {
+const ItemListContainer = ({marcasContainer}) => {
   return (
     //CONTAINER STYLED
     <Container>
-      Selecciona la marca de tu producto
+      {marcasContainer}
     </Container>
   )
 }

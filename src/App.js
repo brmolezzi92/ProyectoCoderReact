@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Welcome brand="PetShop Mi Mascota Preferida" />
-      <ItemListContainer />
+      <ItemListContainer marcasContainer={"Todas las marcas"}/>
     </div>
   );
 }
